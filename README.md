@@ -15,6 +15,7 @@ The initial URL used for scraping/crawling is: https://www.set.or.th/en/market/p
 ## Environment Setup
 This project uses Google Chrome and Selenium, therefore a Chromedriver needs to be installed in the local computer prior to any coding. Pay attention to the local computer's Google Chrome version, the correct Chromedriver version must be installed for the specific Chrome version. 
 - [Chromedriver](https://chromedriver.chromium.org/downloads)
+  
 The `requirement.txt` is also included in this repo. Use this following Bash command to create and download the environment packages required:
 ```bash
 python3 -m venv <environment-name>
